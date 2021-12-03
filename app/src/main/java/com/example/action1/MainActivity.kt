@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         //Комментарий
         //awfc
         //Changes
+        //change 1
     }
 }
